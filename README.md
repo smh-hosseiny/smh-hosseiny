@@ -1,10 +1,15 @@
-### Hi there 👋
+### Hello
+
+- 👋 Hi, I’m @smh-hosseiny
+- 👀 I’m interested in Artificial Intelligence and Control enginnering
+- 💞️ I’m eager to collaborate on Machine learning projects.
+- 📫 My email address: hosseiny290@gmail.com
+
 
 <!--
 **smh-hosseiny/smh-hosseiny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
