@@ -1,8 +1,8 @@
 ### Hello
 
-- 👋 Hi, I’m Hossein
+- 👋 I’m Hossein
 - 👀 I’m interested in computer vision, machine learning, and control engineering.
-- 💞️ I’m eager to collaborate on vision-related projects.
+- 🔭 I’m currently studying my masters at York University, Elder Lab.
 - 📫 My email address: hosseiny290@gmail.com
 
 
