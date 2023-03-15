@@ -11,6 +11,15 @@ I'm also interested in medical image analysis control engineering.
 - 📫 My email address: hosseiny290@gmail.com
 
 
+- This is my persoanl page: <a href="https://aminfadaei116.github.io/projects/Deep-Learning-Course/Anomaly-Detection-Encoder/index.html" target="_blank">link</a>
+
+--------------------
+
+
+In case you were wondering:
+
+- 😄 Pronouns: He/Him
+
 <!--
 **smh-hosseiny/smh-hosseiny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
