@@ -8,10 +8,10 @@ I'm also interested in medical image analysis control engineering.
 
 ---------------------
 
-- 📫 My email address: hosseiny290@gmail.com
+- 📫 Email address: hosseiny290@gmail.com
 
 
-- This is my persoanl page: <a href="https://aminfadaei116.github.io/projects/Deep-Learning-Course/Anomaly-Detection-Encoder/index.html" target="_blank">link</a>
+- 🌐 Persoanl page: <a href="https://smh-hosseiny.github.io/" target="_blank">link</a>
 
 --------------------
 
