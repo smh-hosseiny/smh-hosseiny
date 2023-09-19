@@ -1,6 +1,6 @@
 ### Hello
 
-I am a graduate research assistant at <a href="https://www.elderlab.yorku.ca/" class="">Elder Lab</a> at YorkU working on **depth estimation and 3D scene understanding**. I completed my BS. in ECE at the University of Tehran under the supervision of <a href="https://ece.ut.ac.ir/en/%D8%A7%D8%B2%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87-%D8%A8%DB%8C%D9%86%D8%A7%DB%8C%DB%8C-%D9%88-%D8%B4%D9%86%D9%88%D8%A7%DB%8C%DB%8C-%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA%DB%8C">Reshad Hosseini</a> working on **3D reconstruction of axially symmetric objects**.
+I am a graduate research assistant at <a href="https://www.elderlab.yorku.ca/" class="">Elder Lab</a> at YorkU working on **depth estimation and 3D scene understanding**. I completed my BS. in ECE at the University of Tehran under the supervision of Prof. <a href="https://ece.ut.ac.ir/en/%D8%A7%D8%B2%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87-%D8%A8%DB%8C%D9%86%D8%A7%DB%8C%DB%8C-%D9%88-%D8%B4%D9%86%D9%88%D8%A7%DB%8C%DB%8C-%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA%DB%8C">Reshad Hosseini</a> working on **3D reconstruction of axially symmetric objects**.
 
 I'm also interested in medical image analysis control engineering.
 
