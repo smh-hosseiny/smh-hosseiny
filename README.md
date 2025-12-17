@@ -1,21 +1,19 @@
-## Hey there!
+## Hi there! 👋
 
-I'm Seyed M. Hossein Hosseini, a Graduate Research Assistant at Elder Lab at York University. My research focuses on depth estimation and 3D scene understanding.
+I'm **Seyed M. Hossein Hosseini**, a Computer Vision Researcher & Engineer at **Elder Lab, York University**. 
 
-Previously, I completed my B.Sc. in Electrical and Computer Engineering at the University of Tehran, working under the guidance of Prof. Reshad Hosseini on 3D reconstruction of axially symmetric objects.
+My work bridges the gap between **3D Geometry** and **Generative AI**, moving from theoretical reconstruction to scalable, autonomous systems.
 
-In addition to my core research interests, I'm also passionate about exploring other areas like medical image analysis and control engineering.
+🔭 **Current Focus:**
+* **3D Scene Understanding:** Metric depth estimation, Single-view geometry, Gaussian Splatting (GS).
+* **Agentic AI:** Building autonomous RAG systems that "see" and reason (e.g., [VisualRAG](https://github.com/smh-hosseiny/visual-rag)).
+* **MLOps:** Deploying vision models to production using Docker, AWS, and CI/CD.
 
-#### Feel free to reach out!
+Previously, I completed my B.Sc. at the **University of Tehran**, researching 3D reconstruction of axially symmetric objects.
 
----------------------
+📫 **Reach out:** [hosseiny290@gmail.com](mailto:hosseiny290@gmail.com)
 
-- 📫 Email address: hosseiny290@gmail.com
-
-
-- 🌐 Persoanl page: <a href="https://smh-hosseiny.github.io/" target="_blank">link</a>
-
---------------------
+🌐 **Personal Page:** [smh-hosseiny.github.io](https://smh-hosseiny.github.io/)
 
 
 <!--In case you were wondering:
