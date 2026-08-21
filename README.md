@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm **Seyed M. Hossein Hosseini**, a Computer Vision Researcher & Engineer at **Elder Lab, York University**. 
+I'm **Seyed M. (Sam) Hosseini**, a Computer Vision Researcher & Engineer at **Elder Lab, York University**. 
 
 My work bridges the gap between **3D Geometry** and **Generative AI**, moving from theoretical reconstruction to scalable, autonomous systems.
 
